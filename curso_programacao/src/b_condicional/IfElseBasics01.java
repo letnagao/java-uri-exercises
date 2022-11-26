@@ -1,8 +1,8 @@
-package if_else;
+package b_condicional;
 
 import java.util.Scanner;
 
-public class if_else_exercise {
+public class IfElseBasics01 {
 
 	public static void main(String[] args) {
 		

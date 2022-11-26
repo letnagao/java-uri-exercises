@@ -1,4 +1,4 @@
-package intro_java;
+package a_intro_java;
 import java.util.Scanner;
 
 public class Exerc03 {

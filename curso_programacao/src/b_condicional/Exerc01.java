@@ -1,4 +1,4 @@
-package if_else;
+package b_condicional;
 
 import java.util.Scanner;
 
