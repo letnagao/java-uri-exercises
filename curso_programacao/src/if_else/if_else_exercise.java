@@ -2,7 +2,7 @@ package if_else;
 
 import java.util.Scanner;
 
-public class IfElseExercise {
+public class if_else_exercise {
 
 	public static void main(String[] args) {
 		

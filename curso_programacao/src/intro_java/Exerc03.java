@@ -1,3 +1,4 @@
+package intro_java;
 import java.util.Scanner;
 
 public class Exerc03 {
